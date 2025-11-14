@@ -90,7 +90,7 @@ Let:
 - Pattern search: O(n)
 
 Overall time complexity: O(n+m)
-​
+
 This is significantly better than the naive algorithm’s worst-case O(n·m).
 
 ### Space Complexity
