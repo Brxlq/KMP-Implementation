@@ -1,0 +1,93 @@
+SHORT TEXT: ababcabcabababd
+PATTERN: ababd
+
+MEDIUM TEXT: abababababababababababababababababababababababab
+PATTERN: ababab
+
+LONG TEXT: apai please give 100 for final lorem ipsum is simply dummy text of the printing and typesetting industry
+PATTERN: ipsum is simply
+
+=====================
+SHORT TEST
+=====================
+Pattern found at index: 10
+
+=====================
+MEDIUM TEST
+=====================
+Pattern found at index: 0
+Pattern found at index: 2
+Pattern found at index: 4
+Pattern found at index: 6
+Pattern found at index: 8
+Pattern found at index: 10
+Pattern found at index: 12
+Pattern found at index: 14
+Pattern found at index: 16
+Pattern found at index: 18
+Pattern found at index: 20
+Pattern found at index: 22
+Pattern found at index: 24
+Pattern found at index: 26
+Pattern found at index: 28
+Pattern found at index: 30
+Pattern found at index: 32
+Pattern found at index: 34
+Pattern found at index: 36
+Pattern found at index: 38
+Pattern found at index: 40
+Pattern found at index: 42
+
+=====================
+LONG TEST
+=====================
+Pattern found at index: 37
+Pattern found at index: 142
+Pattern found at index: 247
+Pattern found at index: 352
+Pattern found at index: 457
+Pattern found at index: 562
+Pattern found at index: 667
+Pattern found at index: 772
+Pattern found at index: 877
+Pattern found at index: 982
+Pattern found at index: 1087
+Pattern found at index: 1192
+Pattern found at index: 1297
+Pattern found at index: 1402
+Pattern found at index: 1507
+Pattern found at index: 1612
+Pattern found at index: 1717
+Pattern found at index: 1822
+Pattern found at index: 1927
+Pattern found at index: 2032
+Pattern found at index: 2137
+Pattern found at index: 2242
+Pattern found at index: 2347
+Pattern found at index: 2452
+Pattern found at index: 2557
+Pattern found at index: 2662
+Pattern found at index: 2767
+Pattern found at index: 2872
+Pattern found at index: 2977
+Pattern found at index: 3082
+Pattern found at index: 3187
+Pattern found at index: 3292
+Pattern found at index: 3397
+Pattern found at index: 3502
+Pattern found at index: 3607
+Pattern found at index: 3712
+Pattern found at index: 3817
+Pattern found at index: 3922
+Pattern found at index: 4027
+Pattern found at index: 4132
+Pattern found at index: 4237
+Pattern found at index: 4342
+Pattern found at index: 4447
+Pattern found at index: 4552
+Pattern found at index: 4657
+Pattern found at index: 4762
+Pattern found at index: 4867
+Pattern found at index: 4972
+Pattern found at index: 5077
+Pattern found at index: 5182
